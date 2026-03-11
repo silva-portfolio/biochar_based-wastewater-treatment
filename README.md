@@ -28,7 +28,8 @@ Wastewater from textile and dye industries often contains persistent colour poll
 ## Visuals & Deliverables
 ![Biochars](biochars.png)
 
-![Experimental_Setup](schematic_diagra.jpg)
+![Experimental_Setup](experimental_setup.jpg)
+
 
 
 

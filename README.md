@@ -38,7 +38,7 @@ Wastewater from textile and dye industries often contains persistent colour poll
 ![Treated Effluent](before_&_after_treatment.png)
 *raw (right) and treated (left) effluent*
 
-![lab](lab_setup.png)
+![lab](lab.png)
 *lab setup for analysis*
 
 ![results](table.png).

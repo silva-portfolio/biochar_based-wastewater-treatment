@@ -26,9 +26,17 @@ Wastewater from textile and dye industries often contains persistent colour poll
   * Identified optimal operating conditions (pH, dosage, contact time) for maximum adsorption.
 
 ## Visuals & Deliverables
+![Methodology](Methodology.jpg)
+*methodology*
+
 ![Biochars](biochars.png)
+*biochars*
 
 ![Experimental_Setup](experimental_setup.jpg)
+*setup*
+
+![Treated Effluent](before_&_after_treatment.png)
+*image comparasion between raw and treated effluent*
 
 
 

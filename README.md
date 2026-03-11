@@ -88,12 +88,14 @@ Conducting adsorption experiments using biomass-derived materials required caref
 Addressing these challenges reinforced the importance of experimental reproducibility, materials characterization, and systematic parameter optimization in environmental research.
 
 ## Future Research Directions
-  * Further research could extend this work through:
+Further research could extend this work through:
+
   * Testing additional agricultural residues with different carbon structures
   * Investigating adsorption kinetics and equilibrium modelling
   * Evaluating the regeneration and reuse potential of the biochar adsorbent
   * Scaling the treatment process for pilot-scale wastewater treatment systems
-  * Such studies would help determine the long-term feasibility and scalability of biochar-based adsorption technologies.
+
+Such studies would help determine the long-term feasibility and scalability of biochar-based adsorption technologies.
 
 ## Project Summary
 This research investigated the use of agricultural waste-derived biochar as a low-cost adsorbent for wastewater colour removal. Experimental results demonstrated that biochar produced from locally available biomass materials can effectively reduce colour contaminants in wastewater under controlled treatment conditions.

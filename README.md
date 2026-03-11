@@ -38,8 +38,11 @@ Wastewater from textile and dye industries often contains persistent colour poll
 ![Treated Effluent](before_&_after_treatment.png)
 *raw (right) and treated (left) effluent*
 
+![lab](lab_setup.png)
+*lab setup for analysis*
 
-
+![results](table.png).
+*results table*
 
 
 ## Impact & Applications
@@ -49,6 +52,21 @@ Wastewater from textile and dye industries often contains persistent colour poll
   * Potential for adoption by local textile industries and municipal treatment facilities.
 
 
+## Research Contribution
+This research contributes to the growing body of work exploring waste-to-resource technologies for environmental remediation. The study demonstrates that agricultural residues commonly regarded as waste can be transformed into functional adsorbent materials capable of improving water quality. By utilizing locally available biomass resources, the proposed approach provides an accessible pathway for developing cost-efficient wastewater treatment strategies.
+
+The project also highlights the importance of integrating materials science, environmental engineering, and resource recovery in addressing water pollution challenges.
+
+## Environmental and Societal Relevance
+Water pollution from industrial effluents remains a major environmental concern in many developing regions. Technologies that rely on imported materials or advanced infrastructure are often economically impractical.
+
+**Biochar-based adsorption offers several advantages:**
+  * Utilizes locally available agricultural waste
+  * Reduces environmental pollution from dye effluents
+  * Supports sustainable waste management practices
+  * Provides an affordable option for decentralized wastewater treatment systems
+
+By linking waste valorization with water treatment, the approach contributes to circular resource use and sustainable environmental management.
 
 
 
